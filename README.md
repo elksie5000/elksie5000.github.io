@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -58,7 +58,7 @@
         <p>The Commonwealth War Graves Commission provides free access to the records of thousands of service personnel who have lost their lives in conflict. This project, started in 2012, allowed readers to explore a map showing the final memorial for up to 13,000 casualties from the North and South Staffordshire Regiments.</p>
         <p>The final work involved significant effort to clean and visualise the data.</p>
 
-        <iframe src="war_dead" width="800px" height="300px" frameborder="0"></iframe>
+        <iframe src="war_dead" width="800px" height="300px" frameborder="0"></iframe></br>
         <iframe src="war_dead_panels" width="800px" height="1000px" frameborder="0"></iframe>
 
 
